@@ -13,5 +13,5 @@ To get started with the project, clone the repository and open the `index.html` 
 
 ```bash
 git clone https://github.com/AxhJoseph/Web-Development.git
-cd Source code
+cd Project1 (Completed)
 open index.html
