@@ -12,6 +12,6 @@ This repository contains the source code for a clean and minimalist single-page 
 To get started with the project, clone the repository and open the `index.html` file in your browser:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/AxhJoseph/Web-Development.git
+cd Source code
 open index.html
